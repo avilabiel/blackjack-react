@@ -1,6 +1,6 @@
 # Blackjack Game using React
 
-This game aims to
+This game aims to provide a UI for this [Blackjack Game API and CLI](https://github.com/avilabiel/blackjack-cli) using SOLID and Clean Architecture.
 
 ## Next features
 
