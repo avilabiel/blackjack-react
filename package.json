@@ -1,0 +1,8 @@
+{
+  "name": "blackjack-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/avilabiel/blackjack-react.git",
+  "author": "Gabriel Ávila <avilabiel@gmail.com>",
+  "license": "MIT"
+}
