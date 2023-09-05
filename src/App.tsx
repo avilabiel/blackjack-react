@@ -1,16 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import "./App.css";
+import StartGame from "./components/start-game";
+import { CurrentGameContextProvider } from "./context/game";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <
+      <CurrentGameContextProvider>
+        <StartGame />
+      </CurrentGameContextProvider>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

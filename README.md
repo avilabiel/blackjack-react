@@ -16,6 +16,12 @@ For now, the Architecture will be simple, just to prove the TDD concept.
 - Keep the initiated game on local storage until it finishes
 - Implement Absolute Paths
 - Implement Linters
+- Apply environment variables
+- Apply React Query
+- Implement better error handlers with React Query
+- Apply SOLID and Clean Architecture
+- Implement the best UI ever with animations
+- Allow the selection of multiple players
 
 ## Resources
 
