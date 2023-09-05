@@ -3,7 +3,6 @@ import BlackjackGame from "../../entities/blackjack-game";
 import Game from "../../entities/game";
 
 export default function StartGame(): ReactElement {
-  // const { game, setGame } = useContext(CurrentGameContext);
   const [game, setGame] = useState<Game | null>(null);
 
   const playersAmount = 2;
